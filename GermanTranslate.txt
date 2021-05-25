@@ -1,6 +1,6 @@
 German Word		English Word		Definition
 
-Raesfeld			Raesfeld			A Municipality in Germany
+Raesfeld		Raesfeld			A Municipality in Germany
 Flughafen		Airport			Port for planes
 Berlin			Berlin			Capital of Germany
 Bratwurst		Bratwurst		German sausage
