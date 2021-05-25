@@ -1,0 +1,27 @@
+German Word		English Word		Definition
+
+Raesfeld		Raesfeld		A Municipality in Germany
+Flughafen		Airport			Port for planes
+Berlin			Berlin			Capital of Germany
+Bratwurst		Bratwurst		German sausage
+Hauptstrasse		Main road		Main road of a populace
+Brot			Loaf			A loaf of bread
+Gauss			Gauss			The measurement for magnetic induction named after Carl Gauss
+Klimaanlage		Air conditioning	Cools air
+Rammstein		Rammstein		A German dance-metal band
+Musik			Music			Sounds combined in a hormonic way
+Porsche			Porsche			Brand name for a German car manufacturer
+BMW			BMW			German multinational corporation (mainly cars)
+Biergarten		Beer garden		open air eatery that serves beer
+Ratskeller		Ratskeller		bar or restaurant located in a basement
+Dirndel			Dirndel			type of feminine German dress
+Lederhose		Lederhose		Short knee leather breeches with shoulder straps
+Audi			Audi			German automobile manufacturer
+Schloss			lock			locks something
+Munich			Munich			City in Germany
+Wettbewerbsfaehig	Competitive		Two or more parties striving for an unsharable goal
+Mehlhase		Flour bunny		Professor Mehlhase's name actually means "Warrior Flour Bunny" XD
+Gebaeck			Pastries		A delicious baked treat made from flour
+Baeckerei		Bakery			Place that bakes
+Hund			Dog			Mans best friend
+
